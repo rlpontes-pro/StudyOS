@@ -1,6 +1,4 @@
-# Roadmap
-
-## Formacao
+# Formacao
 
 - [ ] CS50 AI
 - [ ] Agent Skills with Anthropic
@@ -10,6 +8,6 @@
 - [ ] Introduction to Deep Agents
 - [ ] Deep Agents
 
-## Projetos
+# Projeto
 
-- [ ] BrandOS V0.1
+- [ ] BrandOS v0.1

@@ -1,8 +1,8 @@
 # StudyOS
 
-Sistema pessoal e minimalista para acompanhar estudos ao longo do tempo.
+Sistema pessoal e minimalista para acompanhar estudos ao longo de muitos anos.
 
-## Objetivos Atuais de Estudo
+## Objetivos Atuais
 
 - CS50 AI
 - Agent Skills with Anthropic
@@ -18,7 +18,7 @@ Sistema pessoal e minimalista para acompanhar estudos ao longo do tempo.
 - Estudar com consistencia.
 - Aprender fazendo.
 - Registrar apenas o essencial.
-- Manter o sistema simples por muitos anos.
+- Manter o sistema simples.
 
 ## Rotina Semanal
 

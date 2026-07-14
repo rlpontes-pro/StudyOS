@@ -4,10 +4,9 @@
 
 1. Study.
 2. Update the current Week file.
-3. Update `JOURNAL.md` (if needed).
-4. Update `KNOWLEDGE/` (if you learned something worth keeping).
-5. Commit.
-6. Push.
+3. Update `KNOWLEDGE/` (if you learned something worth keeping).
+4. Commit.
+5. Push.
 
 ### Git
 
@@ -66,7 +65,6 @@ misc
 
 - Review the completed week.
 - Complete the **Weekly Review** section.
-- Update `JOURNAL.md`.
 - Update `KNOWLEDGE/` (if needed).
 - Create the next Week file.
 - Plan the next week's schedule.

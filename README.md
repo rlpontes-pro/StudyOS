@@ -22,6 +22,5 @@ Sistema pessoal e minimalista para acompanhar estudos ao longo de muitos anos.
 
 ## Rotina Semanal
 
-- Segunda: planejamento.
-- Terca a sabado: execucao.
-- Domingo: revisao.
+- Segunda a sabado: execucao.
+- Domingo: revisao e planejamento.

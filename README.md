@@ -1,8 +1,8 @@
 # StudyOS
 
-Sistema pessoal e minimalista para acompanhar estudos ao longo de muitos anos.
+A personal and minimalist system for tracking studies over many years.
 
-## Objetivos Atuais
+## Current Goals
 
 - CS50 AI
 - Agent Skills with Anthropic
@@ -13,14 +13,14 @@ Sistema pessoal e minimalista para acompanhar estudos ao longo de muitos anos.
 - Deep Agents
 - BrandOS
 
-## Filosofia de Aprendizado
+## Learning Philosophy
 
-- Estudar com consistencia.
-- Aprender fazendo.
-- Registrar apenas o essencial.
-- Manter o sistema simples.
+- Study consistently.
+- Learn by doing.
+- Record only what matters.
+- Keep the system simple.
 
-## Rotina Semanal
+## Weekly Routine
 
-- Segunda a sabado: execucao.
-- Domingo: revisao e planejamento.
+- Monday to Saturday: execution.
+- Sunday: review and planning.

@@ -1,4 +1,4 @@
-# Formacao
+# Learning Path
 
 - [ ] CS50 AI
 - [ ] Agent Skills with Anthropic
@@ -8,6 +8,6 @@
 - [ ] Introduction to Deep Agents
 - [ ] Deep Agents
 
-# Projeto
+# Project
 
 - [ ] BrandOS v0.1

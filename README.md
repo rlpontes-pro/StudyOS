@@ -1,6 +1,6 @@
 # StudyOS
 
-A personal and minimalist system for tracking studies over many years.
+StudyOS is my second brain for AI, software engineering and BrandOS development.
 
 ## Current Goals
 
